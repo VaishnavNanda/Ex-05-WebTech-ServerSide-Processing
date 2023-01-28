@@ -131,8 +131,8 @@ urlpatterns = [
 
 
 ## OUTPUT:
-![rect](https://user-images.githubusercontent.com/118707051/215271809-138e6640-4aae-47f7-bd26-610031503812.jpg)
 
+![rect](https://user-images.githubusercontent.com/118707051/215273056-45ae63e7-68b6-4f69-9454-e675a14d8eca.jpg)
 
 ## Result:
 Thus a website to perform mathematical calculations in server side is developed.
