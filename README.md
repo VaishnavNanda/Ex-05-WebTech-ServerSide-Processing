@@ -131,7 +131,7 @@ urlpatterns = [
 
 
 ## OUTPUT:
-![output](calc/static/imag![rect](https://user-images.githubusercontent.com/118707051/215271809-138e6640-4aae-47f7-bd26-610031503812.jpg)
+![rect](https://user-images.githubusercontent.com/118707051/215271809-138e6640-4aae-47f7-bd26-610031503812.jpg)
 
 
 ## Result:
